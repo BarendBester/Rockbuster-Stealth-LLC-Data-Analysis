@@ -1,5 +1,5 @@
 # SQL-queries
-### The repository contains SQL querries for Data Analysis of Rocbuster Stealth LLC.
+### The repository contains SQL querries for Data Analysis of Rockbuster Stealth LLC.
 ![grafik](https://github.com/WhiteShark911/SQL-queries/assets/121133689/5336c562-d4a6-4a3a-8783-d624de8fb5ae)
 ### Goal
 Rockbuster Stealth LLC is a movie rental company that had stores around the world.
