@@ -9,7 +9,8 @@ The aim of this project is to gather busenisse intelligence (BI) from inventory 
 
 For this task relational database managment system (RDBMS) with SQL is used to query busines questions and gather business intelligence(BI).
 ### Questions
-Which movies do/do not, make revenue? What is average rental time?
-From where are our customers based?
-Where are good customers based?
-Do sales vary between locations?
+- Which movies do/do not, make revenue?
+- What is average rental time?
+- From where are our customers based?
+- Where are good customers based?
+- Do sales vary between locations?
